@@ -19,7 +19,7 @@ class Config:
     """Configuration class for RAG system"""
     
     # Model Configuration
-    LLM_MODEL = "groq/llama-3.3-70b-versatile"
+    LLM_MODEL = "meta-llama/llama-prompt-guard-2-22m"
     
     # Document Processing
     CHUNK_SIZE = 500
