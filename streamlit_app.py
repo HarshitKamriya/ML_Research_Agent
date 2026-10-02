@@ -79,7 +79,7 @@ def main():
     init_session_state()
     
     # Title
-    st.title("🔍 RAG Document Search")
+    st.title("🔍 ML Research Agent")
     st.markdown("Ask questions about the loaded documents")
     
     # Initialize system
